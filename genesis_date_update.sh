@@ -4,7 +4,7 @@
 # WRITTEN BY: cryofracture
 # DATE: 02/24/2021
 # 
-# First Worked: 10/18/2018
+# First Worked: 02/24/2021
 # Purpose: Quickly pieced together method to update the genesis timestamp for a test node (only connecting to 
 # localhost for Proof of Concept / deploy testing.)
 # Additional purpose to allow monitoring of current timestamp
